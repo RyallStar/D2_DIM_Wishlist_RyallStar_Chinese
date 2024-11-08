@@ -49,8 +49,13 @@
 * Foundry(网站): <https://d2foundry.gg/>
 * Blueberries(网站): <https://www.blueberries.gg/weapons/weapon-tier-lists/>
 * mobalytics(网站): <https://mobalytics.gg/destiny-2/tier-list>
+* D2 engram(网站): <https://engram.blue/>
 * Destiny 2:Endgame Analysis(谷歌文档)：<https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY/edit?gid=346832350#gid=346832350>
 * Destiny Data Compendium(谷歌文档)：<https://docs.google.com/spreadsheets/d/1WaxvbLx7UoSZaBqdFr1u32F2uWVLo-CJunJB4nlGUE4/edit?gid=1038486120#gid=1038486120>
+* Destiny 2:Boss Damage（谷歌文档）: <https://docs.google.com/spreadsheets/d/1_5wtBjRYHHxuF4oJKDb_iOGZs-wTkzB6RYbnyNLbuz4/edit?gid=546993349#gid=546993349>
+* Destiny 2 Weapon Reserves and Mag Database（谷歌文档）:<https://docs.google.com/spreadsheets/d/1l3xBHFa6ZMe86e13segg8f-RB8vLNerYEgNC_Aq3kLc/edit?gid=799633678#gid=799633678>
+* Destiny 2 Glaive Compendium(谷歌文档)：<https://docs.google.com/spreadsheets/d/1FT-BL6UA6ntNEN7_btqwlfJaPYTAeIFvlhpkvWHTajc/edit?gid=462231417#gid=462231417>
+* <https://docs.google.com/spreadsheets/d/1FT-BL6UA6ntNEN7_btqwlfJaPYTAeIFvlhpkvWHTajc/edit?gid=462231417#gid=462231417>
 * 凉條(Bilibili视频)：<https://www.bilibili.com/video/BV1Vv411A7C7/?spm_id_from=333.337.search-card.all.click&vd_source=d99ff64271fe2a03c7d5f89c241e805b>
 * 年糕明(Bilibili视频): <https://www.bilibili.com/video/BV1yP411p7nY/?spm_id_from=333.999.0.0&vd_source=d99ff64271fe2a03c7d5f89c241e805b>
 * Mactics(Youtube视频) :
