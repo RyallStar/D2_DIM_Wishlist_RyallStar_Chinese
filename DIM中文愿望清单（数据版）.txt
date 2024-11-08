@@ -4809,41 +4809,26 @@ dimwishlist:item=3664831848&perks=
 //Black Talon (黑色利爪)
 
 //Ergo Sum (故我在)
-dimwishlist:item=1681583613&perks=436053704,269888150,519046634#notes：1
-dimwishlist:item=1681583613&perks=436053704,269888150,289811733#notes：2
+//notes:【狼群弹药+烈日属性】【狼群弹药+虚空属性】【狼群弹药+电弧属性】【电弧导体+电弧属性】【意外缓刑+虚空属性】
+dimwishlist:item=1681583613&perks=436053704,269888150,519046634
 
-dimwishlist:item=1681583613&perks=436053704,269888150,519046634#notes：3
-dimwishlist:item=1681583613&perks=436053704,269888150,289811733#notes：4
+//notes:【狼群弹药+虚空属性】【狼群弹药+虚空属性】【狼群弹药+电弧属性】【电弧导体+电弧属性】【意外缓刑+虚空属性】
+dimwishlist:item=1681583613&perks=436053704,269888150,289811733
 
-dimwishlist:item=1681583613&perks=436053704,269888150,519046634#notes：5
-dimwishlist:item=1681583613&perks=436053704,269888150,289811733#notes：6
+//notes:【光能聚集+烈日属性】【光能聚集+虚空属性】【光能聚集+电弧属性】
+dimwishlist:item=1681583613&perks=938542991,2349202967,2753228730
 
-dimwishlist:item=1681583613&perks=938542991,2349202967,2753228730#notes：7
-dimwishlist:item=1681583613&perks=436053704,52780822,519046634#notes：8
+//notes:【光能聚集+烈日属性】【光能聚集+虚空属性】【光能聚集+电弧属性】
+dimwishlist:item=1681583613&perks=436053704,52780822,519046634
 
-dimwishlist:item=1681583613&perks=938542991,2349202967,2753228730#notes：9
-dimwishlist:item=1681583613&perks=436053704,52780822,519046634#notes：10
+//notes:【神圣烈焰+烈日属性】
+dimwishlist:item=1681583613&perks=1261178282,52780822,2557881346
 
-dimwishlist:item=1681583613&perks=938542991,2349202967,2753228730#notes：11
-dimwishlist:item=1681583613&perks=436053704,52780822,519046634#notes：12
+//notes:【神圣烈焰+烈日属性】【纯五度+烈日属性】【风暴使者+电弧属性】【类虫机器人榴弹+虚空属性】
+dimwishlist:item=1681583613&perks=1261178282,52780822,1726251414
 
-dimwishlist:item=1681583613&perks=1261178282,52780822,2557881346#notes：13
-dimwishlist:item=1681583613&perks=1261178282,52780822,1726251414#notes：14
-
-dimwishlist:item=1681583613&perks=1261178282,52780822,2753228730#notes：15
-dimwishlist:item=1681583613&perks=1261178282,52780822,1726251414#notes：16
-
-dimwishlist:item=1681583613&perks=436053704,269888150,519046634#notes：17
-dimwishlist:item=1681583613&perks=436053704,269888150,289811733#notes：18
-
-dimwishlist:item=1681583613&perks=1261178282,52780822,2753228730#notes：19
-dimwishlist:item=1681583613&perks=1261178282,52780822,1726251414#notes：20
-
-dimwishlist:item=1681583613&perks=436053704,269888150,289811733#notes：21
-dimwishlist:item=1681583613&perks=436053704,269888150,519046634#notes：22
-
-dimwishlist:item=1681583613&perks=1261178282,52780822,2753228730#notes：23
-dimwishlist:item=1681583613&perks=1261178282,52780822,1726251414#notes：24
+//notes:【纯五度+烈日属性】【风暴使者+电弧属性】【类虫机器人榴弹+虚空属性】
+dimwishlist:item=1681583613&perks=1261178282,52780822,2753228730
 
 //++++++++++++++++++++++++++++++
 //重型榴弹发射器--[Heavy Grenade Launchers]
