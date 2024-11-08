@@ -4809,7 +4809,9 @@ dimwishlist:item=3664831848&perks=
 //Black Talon (黑色利爪)
 
 //Ergo Sum (故我在)
+#notes:【狼群弹药+烈日属性】
 dimwishlist:item=1681583613&perks=436053704,269888150,519046634#notes:【狼群弹药+烈日属性】
+#notes:【狼群弹药+烈日属性】
 dimwishlist:item=1681583613&perks=436053704,269888150,289811733#notes:【狼群弹药+烈日属性】
 dimwishlist:item=1681583613&perks=436053704,269888150,519046634#notes:【狼群弹药+虚空属性】
 dimwishlist:item=1681583613&perks=436053704,269888150,289811733#notes:【狼群弹药+虚空属性】
