@@ -3,7 +3,7 @@
 &emsp;&emsp;这是一份来自RyallStar制作的DIM中文愿望清单。数据版是作者根据主观看法来编辑的DIM中文愿望清单，可以直接引入文件链接或下载文件导入DIM中；信息版是作者根据第三方平台游戏网站整理出来的一份DIM中文与英文的武器信息清单，可以下载自定义编辑你的愿望武器。  
 
 # 关于DIM中文愿望清单操作说明（数据版）
-1. 点击链接并复制：<https://raw.githubusercontent.com/RyallStar/D2_DIM_Wishlist_RyallStar/refs/heads/main/DIM%E4%B8%AD%E6%96%87%E6%84%BF%E6%9C%9B%E6%B8%85%E5%8D%95%EF%BC%88%E6%95%B0%E6%8D%AE%E7%89%88%EF%BC%89.txt>。
+1. 点击链接并复制(链接无法同步，需要手动更新，已更新至 __2024-11-09__ )：<https://raw.githubusercontent.com/RyallStar/D2_DIM_Wishlist_RyallStar_Chinese/refs/heads/main/DIM%E4%B8%AD%E6%96%87%E6%84%BF%E6%9C%9B%E6%B8%85%E5%8D%95%EF%BC%88%E6%95%B0%E6%8D%AE%E7%89%88%EF%BC%89.txt>
 2. 登录DIM：_设置_&emsp;-->&emsp;_愿望清单_&emsp;-->&emsp;_添加另一个愿望清单_。
 3. 在输入框内粘贴链接后，并点击 _添加愿望清单_ 即可。
 
