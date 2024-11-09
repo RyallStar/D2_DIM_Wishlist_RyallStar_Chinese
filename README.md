@@ -5,12 +5,12 @@
 # 关于DIM中文愿望清单操作说明（数据版）
 ## 方式一：
 1. 点击链接并复制(链接无法同步，需要手动更新，链接更新至 __2024-11-09__ )：<https://raw.githubusercontent.com/RyallStar/D2_DIM_Wishlist_RyallStar_Chinese/refs/heads/main/DIM%E4%B8%AD%E6%96%87%E6%84%BF%E6%9C%9B%E6%B8%85%E5%8D%95%EF%BC%88%E6%95%B0%E6%8D%AE%E7%89%88%EF%BC%89.txt>
-2. 登录DIM：_设置_&emsp;--->&emsp;_愿望清单_&emsp;--->&emsp;_添加另一个愿望清单_。
+2. 登录DIM：找到&emsp;_设置_&emsp;--->&emsp;_愿望清单_&emsp;--->&emsp;_添加另一个愿望清单_。
 3. 在输入框内粘贴链接后，并点击 _添加愿望清单_ 即可。
 ## 方式二：  
 1. 下载文件：点击右上角的&emsp;“Code”&emsp;-->&emsp;"Download ZIP"。
 2. 解压文件：下载完成文件后，解压文件并找到 “DIM中文愿望清单（数据版）.txt” 。
-3. 登录DIM： 登录DIM：_设置_&emsp;--->&emsp;_愿望清单_&emsp;--->&emsp;_导入愿望清单物品_。
+3. 登录DIM： 找到&emsp;_设置_&emsp;--->&emsp;_愿望清单_&emsp;--->&emsp;_导入愿望清单物品_。
 4. 解压文件：下载完成并解压文件后，并找到并记住** “DIM中文愿望清单（数据版）.txt” **电脑文件的下载路径位置。
 5. 导入文件：点击&emsp; _导入愿望清单物品_ &emsp;--->&emsp;找到电脑文件的下载路径位置&emsp;-->&emsp;选择“DIM中文愿望清单（数据版）.txt”&emsp;导入即可。
 
