@@ -4,7 +4,7 @@
 
 # 关于DIM中文愿望清单操作说明（数据版）
 ## 方式一：
-1. 点击链接并复制(链接无法同步，需要手动更新，链接更新至 __2024-11-09__ )：<https://raw.githubusercontent.com/RyallStar/D2_DIM_Wishlist_RyallStar_Chinese/refs/heads/main/DIM%E4%B8%AD%E6%96%87%E6%84%BF%E6%9C%9B%E6%B8%85%E5%8D%95%EF%BC%88%E6%95%B0%E6%8D%AE%E7%89%88%EF%BC%89.txt>
+1. 点击链接并复制(链接无法同步，需要手动更新，链接更新至 __2024-11-10__ )：<https://raw.githubusercontent.com/RyallStar/D2_DIM_Wishlist_RyallStar_Chinese/refs/heads/main/DIM%E4%B8%AD%E6%96%87%E6%84%BF%E6%9C%9B%E6%B8%85%E5%8D%95%EF%BC%88%E6%95%B0%E6%8D%AE%E7%89%88%EF%BC%89.txt>
 2. 登录DIM：依次找到操作选项&emsp;_设置_&emsp;--->&emsp;_愿望清单_&emsp;--->&emsp;_添加另一个愿望清单_。
 3. 在输入框内粘贴链接后，并点击 _添加愿望清单_ 即可。
 ## 方式二：  
@@ -72,6 +72,9 @@
 
 
 # 更新文档
+### 2024-11-10 
+ * 调整DIM中文愿望清单（数据版）随机异域武器1把的完美愿望模式
+
 ### 2024-11-09 
  * 修复DIM中文愿望清单（数据版）随机异域武器未显示备注符和部分特性的问题。
 
