@@ -47,7 +47,6 @@
 * Destiny 2:Boss Damage(谷歌文档): <https://docs.google.com/spreadsheets/d/1_5wtBjRYHHxuF4oJKDb_iOGZs-wTkzB6RYbnyNLbuz4/edit?gid=546993349#gid=546993349>
 * Destiny 2 Weapon Reserves and Mag Database(谷歌文档):<https://docs.google.com/spreadsheets/d/1l3xBHFa6ZMe86e13segg8f-RB8vLNerYEgNC_Aq3kLc/edit?gid=799633678#gid=799633678>
 * Destiny 2 Glaive Compendium(谷歌文档)：<https://docs.google.com/spreadsheets/d/1FT-BL6UA6ntNEN7_btqwlfJaPYTAeIFvlhpkvWHTajc/edit?gid=462231417#gid=462231417>
-* <https://docs.google.com/spreadsheets/d/1FT-BL6UA6ntNEN7_btqwlfJaPYTAeIFvlhpkvWHTajc/edit?gid=462231417#gid=462231417>
 * 所有Perk具体数据一览(腾讯文档)：<https://docs.qq.com/sheet/DT0lUS1lzbm1HRlhi?tab=BB08J2&_t=1731319958650&u=656f70a4392c40bd9d68aef3f599bc13>
 * 凉條(Bilibili视频)：<https://www.bilibili.com/video/BV1Vv411A7C7/?spm_id_from=333.337.search-card.all.click&vd_source=d99ff64271fe2a03c7d5f89c241e805b>
 * 年糕明(Bilibili视频): <https://www.bilibili.com/video/BV1yP411p7nY/?spm_id_from=333.999.0.0&vd_source=d99ff64271fe2a03c7d5f89c241e805b>
